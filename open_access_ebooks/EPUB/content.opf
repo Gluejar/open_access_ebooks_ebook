@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="en-US" prefix="cc: http://creativecommons.org/ns#">
+
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title>Open Access eBooks</dc:title>
+      <dc:language xsi:type="dcterms:RFC3066">en</dc:language>
+      <dc:identifier id="dcidid" opf:scheme="URI">https://unglue.it/work/82028/epub</dc:identifier>
+      <dc:identifier opf:scheme="ISBN">9781938616006</dc:identifier>
+      <dc:subject>digital publishing, libraries, ebooks</dc:subject>
+      <dc:description></dc:description>
+      <dc:creator>E. S. Hellman</dc:creator>
+      <dc:publisher>Gluejar, Inc.</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2012-05-23T16:18:10+00:00</dc:date>
+      <dc:rights>This work is shared with the public using the Attribution-ShareAlike 3.0 Unported (CC BY 3.0) license.</dc:rights> 
+      <link rel="cc:license" href="http://creativecommons.org/licenses/by/3.0/"/>
+      <meta property="cc:attributionURL">https://unglue.it/work/82028</meta>
+      <meta name="cover" content="cover"/>
+
+   </metadata>
+
+   <manifest>
+        <item id="content" href="content.html"  media-type="application/xhtml+xml"/>
+        <item id="css" href="vanilla.css" media-type="text/css" />
+        <item id="css-night" href="vanilla-night.css" media-type="text/css" />
+        <item id="cover" href="cover.jpg" media-type="image/jpeg" properties="cover-image" />
+        <item id="nav" href="nav.xhtml" properties="nav" media-type="application/xhtml+xml" />
+        <item id="image-1" href="images/492d389ef340b677dab5a6cdf18c29c9_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-2" href="images/67a0ceb0c186d97f757218ba87ee36ae_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-3" href="images/492d389ef340b677dab5a6cdf18c29c9_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-4" href="images/74b0dd69ae44cd87c057d68befcc5bb0_95.5_191.png" media-type="image/png"/>
+
+        <item id="image-5" href="images/52698b330e8984b264bec4ab1cd5dc59_95.5_191.jpeg" media-type="image/jpeg"/>
+
+        <item id="image-6" href="images/f92848a5acb443ff1c60a6a1c1333c3e_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-7" href="images/39e74286ce2cf680d14b41fe5ca09d7f_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-8" href="images/492d389ef340b677dab5a6cdf18c29c9_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-9" href="images/865637eda2212925963949575e161193_95.5_191.jpeg" media-type="image/jpeg"/>
+
+        <item id="image-10" href="images/cb0b850ef99c820b6258dd46632a817d_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-11" href="images/c05389d0ee1800dc095aa4b5cb8c30fc_95.5_191.jpeg" media-type="image/jpeg"/>
+
+        <item id="image-12" href="images/d6bc2d6adbff1440333fbf78e0a5de04_95.5_191.jpeg" media-type="image/jpeg"/>
+
+        <item id="image-13" href="images/dce3d9407d43635598d8bc03881428e4_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-14" href="images/0c749c97214d656e0b039cfc16a0105c_95.5_191.jpeg" media-type="image/jpeg"/>
+
+        <item id="image-15" href="images/35a6a475196745c07eb638d10d48cb67_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-16" href="images/10809e9bf5c16cfc954283200542aa7e_95.5_191.png" media-type="image/png"/>
+
+        <item id="image-17" href="images/0d3458ebc7562c345708602e670c1225_95.5_191.jpeg" media-type="image/jpeg"/>
+
+        <item id="image-18" href="images/986d5bceb7578dc89ce2a402f5292814_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="image-19" href="images/b90a3f33ea7373f1a76a038f47f855e7_95.5_191.gif" media-type="image/gif"/>
+
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+
+   </manifest>
+
+   <spine toc="ncx">
+      
+      <itemref idref="content"/>
+   </spine>
+
+</package>
