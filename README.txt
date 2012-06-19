@@ -7,3 +7,9 @@ https://sites.google.com/site/spontaneousderivation/an-epub-tutorial/creating-th
 
 (actually I used an applescript from danrodney based on these instructions
 http://www.mobileread.com/forums/attachment.php?attachmentid=60233&d=1288118871 )
+
+I followed "best practice recomendations from http://blog.threepress.org/2009/11/20/best-practices-in-epub-cover-images/
+
+I used the css from https://github.com/mattharrison/epub-css-starter-kit
+
+I beat at till it passed epubcheck 3.0: http://validator.idpf.org/
