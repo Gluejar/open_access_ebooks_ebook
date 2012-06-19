@@ -225,9 +225,10 @@ div.picture-right {
      margin-bottom: 1em; 
      margin-left: 1em;"}
 
-div.aut {
+.aut {
     text-align: center ;
     font-style: italic; }
     
-div.agate-info {
+.agate-info {
     font-size: 80%; }
+    

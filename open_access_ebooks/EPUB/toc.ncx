@@ -20,13 +20,13 @@
         <navLabel>
             <text>Prologue</text>
         </navLabel>
-        <content src="content.html#story-0" />
+        <content src="content.html#prologue" />
     </navPoint>
     <navPoint id="ch1" playOrder="1">
         <navLabel>
             <text>Part 1</text>
         </navLabel>
-        <content src="content.html#story-1" />
+        <content src="content.html#ch1" />
     </navPoint>
     <navPoint id="ch2" playOrder="2">
         <navLabel>
