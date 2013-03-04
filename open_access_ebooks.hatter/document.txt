@@ -19,7 +19,7 @@ Unglued ebooks are made possible through the Unglue.it website by contributions 
 You can say thank you by supporting the ungluing of more books at <a href='https://unglue.it/'>https://unglue.it/</a>
 
 <h1>Prologue</h1>
- 
+
 A version of this book was originally published as a series of blog posts written for No Shelf Required 2: Use and Management of Electronic Books, edited by Sue Polanka. It was then published as a chapter in Library Technology Reports: Expert Guides to Library Systems and Services, Volume 47, Number 8 (November/December 2011), page 18-27. The author would like to thank Sue and the editorial staff at ALA Techsource for their comments and suggestions. Any errors in this ebook version are entirely the author's. Also, many comments were received on the blog, some of which are included here, all of which contributed to the discourse and are greatly appreciated.
 
 As the subject matter of the book is Open Access eBooks, it seemed important to put the extra effort needed to make it into an ebook and release it under a Creative Commons license. As a result, some minor revisions have been made. The Attribution license was chosen to allow readers to make additional contributions and to explore more of the creative possibilities of open-access ebooks. If you decide to add material into the book, please do your best to respect the spirit of proper attribution. This is an area where social practice has not kept pace with the technical possibilities, so feel free to experiment.
@@ -260,7 +260,7 @@ Together, we must strive to make sure that the best and most thoughtful of the w
 
 <h2>About the Author</h2>
 
-<h3>Eric S. Hellman</h3>
+Eric S. Hellman
 
 After 10 years doing physics research at Bell Labs, Eric got interested in electronic publishing, started an e-journal, started a company, built linking technology for libraries, sold that company to OCLC and worked there a few years, started blogging, and finally decided that the important thing to do would be to make ebooks work for libraries. And everyone else. But the legacy of working on scholarly citation software made him swear long ago that his author_string would be E. S. Hellman, so don't get it wrong. He lives and works in Montclair, New Jersey.
 
