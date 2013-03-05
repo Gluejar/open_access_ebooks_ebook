@@ -1,0 +1,31 @@
+body {
+    margin: 0 1em;
+    padding: 0;
+    font-family: Garamond, "Hoefler Text", "Times New Roman", Times, serif;
+    font-size: 12pt;
+}
+
+h1 {
+    font-family: "Futura Medium", "Century Gothic", AppleGothic, sans-serif;
+    font-size: 150%;
+    color: #666;
+}
+
+h2 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow Bold", Arial, sans-serif;
+    font-size: 110%;
+    color: #333;
+}
+
+td {
+    padding-right: 10px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+.picture-right {
+    float:right;
+    margin: 0 0 1em 1em;
+}

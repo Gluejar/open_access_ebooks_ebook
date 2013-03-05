@@ -7,10 +7,10 @@ URI: <a href='https://unglue.it/work/82028/ '>https://unglue.it/work/82028/</a> 
 Cover image by Verity Gould.
 
 <figure>
-<img src='unglueitlogo.png' />
+<img src='unglueitlogo.png' alt="unglue.it logo" />
 </figure>
 
-This unglued edition is distributed under the terms of the Creative Commons Attribution 3.0 Unported (CC BY 3.0) license. <a href='http://creativecommons.org/licenses/by/3.0/'>http://creativecommons.org/licenses/by/3.0/</a>. The Creative Commons licensing is made possible by the support of readers like you. Become an ungluer at <a href='https://unglue.it/'>https://unglue.it/</a>
+This <i>unglued</i> edition is distributed under the terms of the Creative Commons Attribution 3.0 Unported (CC BY 3.0) license. <a href='http://creativecommons.org/licenses/by/3.0/'>http://creativecommons.org/licenses/by/3.0/</a>. The Creative Commons licensing is made possible by the support of readers like you. Become an ungluer at <a href='https://unglue.it/'>https://unglue.it/</a>
 
 <h1>This is an unglued ebook</h1>
 
@@ -19,6 +19,12 @@ Unglued ebooks are made possible through the Unglue.it website by contributions 
 You can say thank you by supporting the ungluing of more books at <a href='https://unglue.it/'>https://unglue.it/</a>
 
 <h1>Prologue</h1>
+
+<div class="picture-right">
+<a href="http://www.amazon.com/No-Shelf-Required-books-Libraries/dp/0838910548">
+    <img src="413NVbvmo7L._SL160_.jpg" />
+</a>
+</div>
 
 A version of this book was originally published as a series of blog posts written for No Shelf Required 2: Use and Management of Electronic Books, edited by Sue Polanka. It was then published as a chapter in Library Technology Reports: Expert Guides to Library Systems and Services, Volume 47, Number 8 (November/December 2011), page 18-27. The author would like to thank Sue and the editorial staff at ALA Techsource for their comments and suggestions. Any errors in this ebook version are entirely the author's. Also, many comments were received on the blog, some of which are included here, all of which contributed to the discourse and are greatly appreciated.
 
@@ -93,7 +99,6 @@ Many free ebooks are available on a similar basis as free websites. They may inc
 <h2>Creative Commons Licensing</h2>
 
 Creative Commons licensing arose to expand the range of creative works available for others to build upon legally and to share. Many authors really want their works to be redistributed for free in venues such as Cooks Source, but they want to make sure attribution is given, and often want to prevent their work from being altered or chopped into pieces. Others want to make sure that if their work is altered or somehow improved, the altered or improved version will also be available for free. Sometimes, authors are happy to have their works reused non-commercially, but want to keep their works from being commercially exploited without permission. Creative Commons licenses give authors the tools they need to accomplish these goals.
- 
 
 <figure>
 <img src='cc-by-sa.png' />
@@ -119,9 +124,13 @@ The idea of copyleft is that licenses can be used to prevent someone from taking
 
 <h2>Open Access vs. open access</h2>
 
- Consider the book <i>How Wikipedia Works</i> by Phoebe Ayers, Charles Matthews, and Ben Yates. Is it an open access ebook? Based on the page at the Free Software Foundation, you might assume the answer is an easy yes, because it comes with a GNU FDL license. If you search for this book on Google, however, you’ll have to dig quite a bit to get a free ebook. Amazon will sell you the Kindle version for $21.64. You can buy it in three different formats from O’Reilly or from No Starch Press, the publisher, for $23.95. Google books has it through their publisher program; it appears to fully available and Google doesn’t try to sell it to you. You can find the ebook in a library through Worldcat, but the libraries that hold it restrict access to their own users. Wikipedia itself has a page for it, but no download link; for that you need to look on the talk page.
+<div class="picture-right">
+<a href="http://www.amazon.com/How-Wikipedia-Works-You-Part/dp/159327176X">
+    <img alt="How Wikipedia Works: And How You Can Be a Part of It" src="52698b330e8984b264bec4ab1cd5dc59_95.5_191.jpeg" />
+</a>
+</div>
 
-
+Consider the book <i>How Wikipedia Works</i> by Phoebe Ayers, Charles Matthews, and Ben Yates. Is it an open access ebook? Based on the page at the Free Software Foundation, you might assume the answer is an easy yes, because it comes with a GNU FDL license. If you search for this book on Google, however, you’ll have to dig quite a bit to get a free ebook. Amazon will sell you the Kindle version for $21.64. You can buy it in three different formats from O’Reilly or from No Starch Press, the publisher, for $23.95. Google books has it through their publisher program; it appears to fully available and Google doesn’t try to sell it to you. You can find the ebook in a library through Worldcat, but the libraries that hold it restrict access to their own users. Wikipedia itself has a page for it, but no download link; for that you need to look on the talk page.
 
 The intent of the publisher of this book doesn’t seem to be to make the ebook available openly, even though it uses a “free” license. The free distribution of the ebook is not effective. There are a lot of ways to license content, but at the end of the day, it’s the intent of the rights holders and the effectiveness of the free distribution that makes an ebook “Open Access” with capital OA.
 
@@ -140,7 +149,7 @@ In 2009 Cory Doctorow put together a collection of short stories called “With 
 <h2>DIY publishing models</h2>
 
 One way to meet the costs of ebook production is to keep those costs close to zero. Free blogging sites have made it simple for authors to produce blogs and other sorts of websites; additional tools are available to add keywords, links, and images. Other tools can convert a blog or similar website to the EPUB ebook format; EPUB export is available in Apple’s Pages word processor and it’s likely that other programs will soon follow suit.
- 
+
 Given these tools, authors can produce ebooks on their own, with no other expense than the value of their time. For With a Little Help Doctorow did most of the production himself; as the title suggests, he got friends to help out with things such as cover and book design.
 
 In the “Do It Yourself” or DIY model, there are essentially no expenses to recoup. If the author wants to earn something, additional money needs to be spent on an ISBN and a bit more to get metadata into a feed for Amazon. But if income is not the object, the ebook can simply be posted on a website and made available to the world. A CC license allows the ebooks to be distributed in a wide variety of channels.
@@ -186,7 +195,7 @@ An organization called “Distributed Proofreaders” (DP) is an aggregation of 
 <h2>Crowd-funding</h2>
 
 The model that the author is working on at Gluejar Inc. is crowd funding. It’s analogous to the method that public radio and public television is funded in the U.S., except that every book that’s to be released with a Creative Commons license has a fund drive of its own. Once the producer’s price has been matched by reader pledges, an Open Access ebook is released. The pledge drives are managed by a website.
- 
+
 Authors have used crowd-funding websites such as kickstarter.com to cover the expenses of completing a new book. For example, Mur Lafferty raised over $19,000 from more than 250 backers to fund book design, cover design, and ebook conversion for a fantasy audio series. In a few cases, the projects use Creative Commons licenses. Stephen Duncombe, a Professor at NYU, has been trying to raise $3500 to fund the further production of an open-source version of Sir Thomas More’s Utopia, which is distributed with a CC BY-SA license. (Of course the underlying work is in the public domain, but the new translations, annotations, and commentary is subject to copyright.)
 
 To get a better idea of how crowd-funding might scale to large numbers of books, consider the author of a romance series. Rights for the earliest books in the series have reverted to her, but there’s no cash to convert the book to ebook formats. She contacts the pledge-drive website, and enters an offer to release the first book under a Creative Commons license in exchange for a lump sum payment that she considers to be fair and which covers the conversion to ebook. Fans of the series can then go to the site and pledge support. If the author's offer price is met, supporters get billed, and the author gets the payment. The resulting ebook file is sent to all the people who have pledged, and put on a feed for the rest of the world to pick up. Since the ebook is now Creative Commons licensed, it can be redistributed for free.
@@ -210,16 +219,15 @@ Stephen Duncombe's Open Utopia project on Kickstarter:The Open Utopia: A New Kin
 One of the missions of libraries is to provide access to all sorts of information, including ebooks. If an ebook is already open access, what role is left for libraries play?
 
 Here’s a thought-experiment for libraries: imagine that the library’s entire collection is digital. Should it include Shakespeare? Should it include Moby Dick? These are available as public domain works from Project Gutenberg; providing these editions in a library collection might seem to be superfluous. Many librarians have been trying to convince their patrons that “free stuff on the Internet” is often inferior to the quality information available through libraries. There are certainly ebook editions of these works available for purchase with better illustrations, better editing, annotations, etc. Should libraries try to steer patrons to these resources instead of using the free stuff?
- 
+
 For the most part, libraries have not done a good job of incorporating resources such as those available from Project Gutenberg into their digital collections. Overdrive, the leading provider of ebooks to public libraries, now offers Project Gutenberg titles for no extra charge, but they are offered as a separate collection. At present, if a user searches for Moby Dick in a library collection, a result will be returned only if the library has a purchased edition of Moby Dick, which may be in use by another patron. A separate search must be done to retrieve the free edition.
 
 As we saw in the section on types of open access, for an ebook to really be Open Access, there must be an appropriate license (or public domain status) AND effective access. There are a number of ways that libraries can work to make that access effective, both individually and through cooperative effort. Similarly, Open Access ebooks can play an important role in supporting the mission of libraries. This section will consider libraries’ roles in access, selection, archiving, community, and production of Open Access ebooks.
 
 <h2>Access and Storage</h2>
 
- 
 Most libraries can avoid worrying about access and storage of Open Access ebooks, thanks to services such as the Internet Archive’s OpenLibrary project and HathiTrust, a “partnership of major research institutions and libraries working to ensure that the cultural record is preserved and accessible long into the future”.  These services provide reliable low-cost file storage and bandwidth. Adding effective access to cost-free ebooks at other sites may need a bit more work; figuring out and tracking stable, persistent URLs at multiple locations can create a logistics burden for libraries that could help manage access. Library-oriented “knowledgebase” services from vendors such as OCLC, Proquest and Ex-Libris may prove to be useful in this regard.
- 
+
 As users shift towards reader devices and tablet computers, libraries will find themselves spending a lot of time helping users figure out how to move Open Access ebooks onto their devices. In principle, Open Access ebooks shouldn’t require Digital Rights Management, and should thus be compatible with most devices. In practice, getting content free content onto a device can be non-intuitive and often “side-loading” or other indirect procedures are required; most e-reader devices have book shopping functionality and the vendors are not motivated to push users to content that doesn’t generate revenue.
 
 <h2>Selection and Description</h2>
@@ -233,7 +241,7 @@ Perhaps the best example to date of work in a library on selection and descripti
 <h2>Archiving and Preservation</h2>
 
 One of the biggest uncertainties presented by ebook licensing is whether today’s ebook acquisitions will meet the needs of future readers. As we celebrate the 40th anniversary of the first ebooks, it’s hard to ignore the fact that most libraries have print collections that reach back a hundred years and more. We don’t know what parts of today’s written culture will be in demand 100 (or even 40) years from now or how readers will expect to approach them. For that reason, texts must be in a form that can evolve with reading technology, and the evolution must not depend on the permission and continued existence of publishing companies, platform vendors, rights management software, proprietary software or hardware. Formats must adhere strictly to standards. The forty-year-old texts from Project Gutenberg can still be read today because they used very simple formats; these are being converted to newer more capable formats such as EPUB for easy consumption on ebook readers. Going forward, there will be continuing challenges in the evolution of photos, graphics, mathematics, scripting, and linking of ebooks.
- 
+
 LOCKSS, a peer-to-peer preservation system in which libraries are taking the lead in preserving e-journals and other websites. LOCKSS has been working to extend its digital preservation efforts to ebooks; about 45,000 ebooks are “in-process”, and it’s expected that another 30,000 will be added in 2012.
 
 <h2>Community and Context</h2>
@@ -246,7 +254,7 @@ As technology lowers the barriers to ebook production, more and more people will
 
 Libraries can also fill the need for educating grassroots authors about the meaning and importance of public licenses. Some authors will of course need to use traditional licensing strategies, but most will be unfamiliar with Creative Commons and other types of licenses. The social benefit of the use of these licenses is aligned with the library’s mission of promoting access to information, and libraries should not be hesitant to promote their use.
 
-Changing the World
+<h1>Changing the World</h1>
 
 As applied to the scholarly journal, the goals of the Open Access movement have been diverse. The success of the movement must be judged against those goals. There’s no doubt that Open Access has been successful at its core goal of increasing access to many types of information. But some other hopes pinned on the movement have been unrealized. Serials budgets at libraries have continued a seemingly inexorable rise.
 
@@ -260,7 +268,7 @@ Together, we must strive to make sure that the best and most thoughtful of the w
 
 <h2>About the Author</h2>
 
-Eric S. Hellman
+<h3>Eric S. Hellman</h3>
 
 After 10 years doing physics research at Bell Labs, Eric got interested in electronic publishing, started an e-journal, started a company, built linking technology for libraries, sold that company to OCLC and worked there a few years, started blogging, and finally decided that the important thing to do would be to make ebooks work for libraries. And everyone else. But the legacy of working on scholarly citation software made him swear long ago that his author_string would be E. S. Hellman, so don't get it wrong. He lives and works in Montclair, New Jersey.
 
