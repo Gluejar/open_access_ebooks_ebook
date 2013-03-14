@@ -136,7 +136,7 @@ The intent of the publisher of this book doesn’t seem to be to make the ebook 
 
 Notes:
 
-How Wikipedia Works: is available (GNU FDL license) as PDF (here (15 MB)). The Google books version is here. It's listed on a GNU web page.
+How Wikipedia Works: is available (GNU FDL license) as PDF (<a href='http://dl.dropbox.com/u/10330141/How%20Wikipedia%20Works.pdf'>here (15 MB)</a>). The Google books version is <a href='http://books.google.com/books?id=lHdi1CEPLb4C&amp;lpg=PP1&amp;ots=Ffjr0nFODq&amp;dq=How%20Wikipedia%20Works%20ayers&amp;pg=PP1#v=onepage&amp;q&amp;f=false'>here</a>. It's listed on a <a href='http://www.gnu.org/doc/other-free-books.html'>GNU web page</a>.
 
 <h1>Business Models for Creation</h1>
 
@@ -144,11 +144,16 @@ How Wikipedia Works: is available (GNU FDL license) as PDF (here (15 MB)). The G
 
 Any model for ebook publishing must have a business model for recouping the expenses of production: reviewing, editing, formatting, design, etc. In this section, we’ll review methods that can be used to support Open Access ebook publishing.
 
-In 2009 Cory Doctorow put together a collection of short stories called “With a Little Help” and documented the process of publishing it in a series of columns on Publisher’s Weekly. He used a variety of business models to support the project, as detailed below, and the ebook version was released under a Creative Common License.
+In 2009 Cory Doctorow put together a collection of short stories called “With a Little Help”<sup>1</sup> and documented the process of publishing it in a series of columns on Publisher’s Weekly. He used a variety of business models to support the project, as detailed below, and the ebook version was released under a Creative Common License.
 
 <h2>DIY publishing models</h2>
 
 One way to meet the costs of ebook production is to keep those costs close to zero. Free blogging sites have made it simple for authors to produce blogs and other sorts of websites; additional tools are available to add keywords, links, and images. Other tools can convert a blog or similar website to the EPUB ebook format; EPUB export is available in Apple’s Pages word processor and it’s likely that other programs will soon follow suit.
+
+<div class="picture-right">
+<a href="http://www.amazon.com/gp/product/1456576348/"><img src="with_a_little_help.jpg" />
+</a>
+</div>
 
 Given these tools, authors can produce ebooks on their own, with no other expense than the value of their time. For With a Little Help Doctorow did most of the production himself; as the title suggests, he got friends to help out with things such as cover and book design.
 
@@ -204,13 +209,13 @@ In another scenario, a reader launches the pledge campaign, perhaps someone who 
 
 Notes:
 
-Cory Doctorow's With a Little Help Project
-Bloomsbury Academic
-Seth Godin's What Matters Now
-Europeana
-Distributed Proofreaders
-Mur Lafferty's Kickstarter Project- The Afterlife Series: Heaven, Hell, Earth, Wasteland, War
-Stephen Duncombe's Open Utopia project on Kickstarter:The Open Utopia: A New Kind of Old Book 
+1. Cory Doctorow's <a href='http://www.publishersweekly.com/pw/by-topic/columns-and-blogs/cory-doctorow/article/15883-doctorow-s-project-with-a-little-help.html'>With a Little Help</a> Project<br />
+2. <a href='http://www.bloomsburyacademic.com/'>Bloomsbury Academic</a><br />
+3. Seth Godin's <a href='http://sethgodin.typepad.com/seths_blog/2009/12/what-matters-now-get-the-free-ebook.html'>What Matters Now</a><br />
+4. <a href='http://www.europeana.eu/portal/'>Europeana</a><br />
+5. <a href='http://www.pgdp.net/c/'>Distributed Proofreaders</a><br />
+6. Mur Lafferty's Kickstarter Project- <a href='http://www.kickstarter.com/projects/869477073/the-afterlife-series-heaven-hell-earth-wasteland-w'>The Afterlife Series: Heaven, Hell, Earth, Wasteland, War</a><br />
+7. Stephen Duncombe's <a href='http://theopenutopia.org/'>Open Utopia</a> project on Kickstarter: <a href='http://www.kickstarter.com/projects/1713881779/the-open-utopia-a-new-kind-of-old-book'>The Open Utopia: A New Kind of Old Book </a><br />
 
 <h1>Libraries</h1>
 
@@ -220,13 +225,25 @@ One of the missions of libraries is to provide access to all sorts of informatio
 
 Here’s a thought-experiment for libraries: imagine that the library’s entire collection is digital. Should it include Shakespeare? Should it include Moby Dick? These are available as public domain works from Project Gutenberg; providing these editions in a library collection might seem to be superfluous. Many librarians have been trying to convince their patrons that “free stuff on the Internet” is often inferior to the quality information available through libraries. There are certainly ebook editions of these works available for purchase with better illustrations, better editing, annotations, etc. Should libraries try to steer patrons to these resources instead of using the free stuff?
 
+<figure>
+<img alt="Moby Dick" src="moby_dick.jpeg" />
+</figure>
+
 For the most part, libraries have not done a good job of incorporating resources such as those available from Project Gutenberg into their digital collections. Overdrive, the leading provider of ebooks to public libraries, now offers Project Gutenberg titles for no extra charge, but they are offered as a separate collection. At present, if a user searches for Moby Dick in a library collection, a result will be returned only if the library has a purchased edition of Moby Dick, which may be in use by another patron. A separate search must be done to retrieve the free edition.
 
 As we saw in the section on types of open access, for an ebook to really be Open Access, there must be an appropriate license (or public domain status) AND effective access. There are a number of ways that libraries can work to make that access effective, both individually and through cooperative effort. Similarly, Open Access ebooks can play an important role in supporting the mission of libraries. This section will consider libraries’ roles in access, selection, archiving, community, and production of Open Access ebooks.
 
 <h2>Access and Storage</h2>
 
+<div class="picture-right">
+    <img alt="Hathi Trust" src="HathiTrust.gif" />
+</div>
+
 Most libraries can avoid worrying about access and storage of Open Access ebooks, thanks to services such as the Internet Archive’s OpenLibrary project and HathiTrust, a “partnership of major research institutions and libraries working to ensure that the cultural record is preserved and accessible long into the future”.  These services provide reliable low-cost file storage and bandwidth. Adding effective access to cost-free ebooks at other sites may need a bit more work; figuring out and tracking stable, persistent URLs at multiple locations can create a logistics burden for libraries that could help manage access. Library-oriented “knowledgebase” services from vendors such as OCLC, Proquest and Ex-Libris may prove to be useful in this regard.
+
+<div class="picture-right">
+    <img alt="Open Library" src="logo_OL-lg.png" />
+</div>
 
 As users shift towards reader devices and tablet computers, libraries will find themselves spending a lot of time helping users figure out how to move Open Access ebooks onto their devices. In principle, Open Access ebooks shouldn’t require Digital Rights Management, and should thus be compatible with most devices. In practice, getting content free content onto a device can be non-intuitive and often “side-loading” or other indirect procedures are required; most e-reader devices have book shopping functionality and the vendors are not motivated to push users to content that doesn’t generate revenue.
 
@@ -236,11 +253,15 @@ Metadata based discovery and browsing have been a strength of libraries; without
 
 With a flood of free content already available, and much more on the way, there is a continuing need to highlight the material most suited to the needs of the user. Multiple editions can exist of public domain works; it makes sense for libraries to help patrons find the best ones.
 
-Perhaps the best example to date of work in a library on selection and description of Open Access ebooks is the Online Books Page at the University of Pennsylvania. Edited by John Mark Ockerbloom, it indexes over a million online books, all of them available for free to users (http://onlinebooks.library.upenn.edu/).
+Perhaps the best example to date of work in a library on selection and description of Open Access ebooks is the Online Books Page at the University of Pennsylvania. Edited by John Mark Ockerbloom, it indexes over a million online books, all of them available for free to users (<a href='http://onlinebooks.library.upenn.edu/'>http://onlinebooks.library.upenn.edu/</a>).
 
 <h2>Archiving and Preservation</h2>
 
 One of the biggest uncertainties presented by ebook licensing is whether today’s ebook acquisitions will meet the needs of future readers. As we celebrate the 40th anniversary of the first ebooks, it’s hard to ignore the fact that most libraries have print collections that reach back a hundred years and more. We don’t know what parts of today’s written culture will be in demand 100 (or even 40) years from now or how readers will expect to approach them. For that reason, texts must be in a form that can evolve with reading technology, and the evolution must not depend on the permission and continued existence of publishing companies, platform vendors, rights management software, proprietary software or hardware. Formats must adhere strictly to standards. The forty-year-old texts from Project Gutenberg can still be read today because they used very simple formats; these are being converted to newer more capable formats such as EPUB for easy consumption on ebook readers. Going forward, there will be continuing challenges in the evolution of photos, graphics, mathematics, scripting, and linking of ebooks.
+
+<div class="picture-right">
+    <img alt="LOCKSS" src="lockss_header.jpg" />
+</div>
 
 LOCKSS, a peer-to-peer preservation system in which libraries are taking the lead in preserving e-journals and other websites. LOCKSS has been working to extend its digital preservation efforts to ebooks; about 45,000 ebooks are “in-process”, and it’s expected that another 30,000 will be added in 2012.
 
